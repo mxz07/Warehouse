@@ -25,7 +25,7 @@ jobs:
   #       with:
   #         java-version: 11
   #     - name: Build with gradle
-  #       run: cd ${{ github.workspace }}/week12/mock && ./gradlew
+  #       run: cd ${{ github.workspace }}TestAction.java
   #     - name: Test with gradle
-  #       run: cd ${{ github.workspace }}/week12/mock && ./gradlew test
+  #       run: cd ${{ github.workspace }}/TestAction.java test
 
